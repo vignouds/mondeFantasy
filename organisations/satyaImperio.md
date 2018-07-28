@@ -1,4 +1,4 @@
-#Satya Imperio
+# Satya Imperio
 Société secrète, plus communément appelée l'Imperio. Signification du nom : "Vérité et Pouvoir" dans un ancien dialecte.
 Objectif : percer les mystères des temps anciens (transhumanistes).
 Deux courants de pensée : ceux qui veulent utiliser le pouvoir (majoritaires) et ceux qui veulent s'en projeter. Plus les curieux.
