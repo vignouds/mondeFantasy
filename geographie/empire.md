@@ -27,7 +27,7 @@ Les provinces sont de différentes tailles, richesse et puissance. La plus puiss
 ## Villes et provinces
 Ionisca : Capital de l’Empire. Ville immense, surpeuplée, avec des fortes inégalités et donc une forte criminalité. Il s’agit du port le plus important de l’Empire, qui tire sa richesse de sa position stratégique pour les commerces avec les îles du Sud-Est, et du fait qu’elle regroupe tous les services administratifs centraux de l’Empire.
 
-??? : petite ville à l’extérieur de Ionisca où vit l’Empereur et tous les très riches marchands et autres rentiers (genre Monaco, ou Versailles).
+Eonia, ou colline Eonienne : colline de Ionisca sur laquelle est juché le palais impérial et les demeures des très riches marchands et autres rentiers
 
 Province de Ionisca (ioniscin)
 
